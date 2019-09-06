@@ -1,2 +1,2 @@
-# farm
-easyUI+SpringMVC 朋友圈
+# microblog
+easyUI+SpringMVC 微博朋友圈
