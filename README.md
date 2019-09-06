@@ -1,2 +1,2 @@
 # farm
-easyUI+SpringMVC 仿QQ农场
+easyUI+SpringMVC 朋友圈
